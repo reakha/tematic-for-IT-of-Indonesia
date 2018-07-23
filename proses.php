@@ -1,5 +1,4 @@
 <?php
-	//asdasdasdasdasdasdasdasdasdasdas
 	error_reporting(0);
 	include 'connect.php';
 	include 'stemming.php';
